@@ -3,7 +3,7 @@
 
 A Linux utility to seamlessly switch between multiple browser-based voice chat applications with a single click. Perfect for managing multiple meetings, voice chats, or online games simultaneously.
 
-![Browser Audio Switcher](https://via.placeholder.com/800x400?text=Browser+Audio+Switcher)
+![Browser Audio Switcher](https://github.com/user-attachments/assets/295f0d5c-436e-4e2e-b8e8-8b9d80b4f97f)
 
 ## Features
 
