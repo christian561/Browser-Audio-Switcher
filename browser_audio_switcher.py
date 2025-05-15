@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
 Browser Audio Switcher
-Hot-keys:  Alt + Z / X / C   (Browser 1 / Browser 2 / Browser 3)
 Buttons :  Browser 1 / 2 / 3
 """
 
