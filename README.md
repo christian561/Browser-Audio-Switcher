@@ -59,7 +59,7 @@ chmod +x phoneburner_switcher.py
 
 Run the application:
 ```bash
-./phoneburner_switcher.py
+./browser_audio_switcher.py
 ```
 
 ### First Launch
